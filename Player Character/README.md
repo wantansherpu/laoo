@@ -3,7 +3,7 @@
 - 로빈 (Robin)
 - 후드 (Hood)
 - 가스톤 (Gastone)
-- 넥크룬 (Nekroon)
+- 네크룬 (Nekroon)
 - 크리스티안 발두르 (Christian Baldur)
 
 ## 로빈 (Robin)
@@ -20,11 +20,11 @@
 
 - 
     
-## 넥크룬 (Nekroon)
+## 네크룬 (Nekroon)
 
 - 성기사
 - 무술의 달인
-- 케다른교의 성직자
+- 케다교의 성직자
     
 ## 크리스티안 발두르 (Christian Baldur)
 
